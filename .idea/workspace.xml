@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ed75eb9-081d-4d62-a97d-ef6f9c0044ce" name="Changes" comment="Session 7 and 8" />
+    <list default="true" id="1ed75eb9-081d-4d62-a97d-ef6f9c0044ce" name="Changes" comment="Session 7 and 8">
+      <change beforePath="$PROJECT_DIR$/Session7-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session7-8.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707471809382</updated>
-      <workItem from="1707471811024" duration="319000" />
+      <workItem from="1707471811024" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="Session 7 and 8">
       <option name="closed" value="true" />
@@ -65,7 +70,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707471923501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Session 7 and 8">
+      <option name="closed" value="true" />
+      <created>1707472280365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707472280365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Session 7 and 8">
+      <option name="closed" value="true" />
+      <created>1707472290222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707472290222</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Session 7 and 8">
+      <option name="closed" value="true" />
+      <created>1707472351257</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707472351257</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
