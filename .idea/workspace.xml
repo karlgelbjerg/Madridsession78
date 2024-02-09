@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ed75eb9-081d-4d62-a97d-ef6f9c0044ce" name="Changes" comment="Session 7 and 8">
+      <change afterPath="$PROJECT_DIR$/Second part session 78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Session7-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session7-8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Second part session 78.executor": "Run",
     "Python.Session7-8.executor": "Run",
+    "Python.fourth.executor": "Run",
+    "Python.third.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -60,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707471809382</updated>
-      <workItem from="1707471811024" duration="635000" />
+      <workItem from="1707471811024" duration="4032000" />
     </task>
     <task id="LOCAL-00001" summary="Session 7 and 8">
       <option name="closed" value="true" />
@@ -94,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707472351257</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Session 7 and 8">
+      <option name="closed" value="true" />
+      <created>1707472498382</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707472498382</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +119,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Session 7 and 8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Session7_8$Session7_8.coverage" NAME="Session7-8 Coverage Results" MODIFIED="1707472066306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Session7_8$Second_part_session_78.coverage" NAME="Second part session 78 Coverage Results" MODIFIED="1707473479377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Session7_8$fourth.coverage" NAME="fourth Coverage Results" MODIFIED="1707477820467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Session7_8$third.coverage" NAME="third Coverage Results" MODIFIED="1707476380738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Session7_8$Session7_8.coverage" NAME="Session7-8 Coverage Results" MODIFIED="1707472759395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
